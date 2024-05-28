@@ -1,1 +1,5 @@
-{	"repositories" : {		"github://pharo-contributions/OrderPreservingDictionary/src" : "7803689056b52a9069940c3600bece878bec88c9"	}}
+{
+	"repositories" : {
+		"github://pharo-contributions/OrderPreservingDictionary/src" : "7b3ab363379e35a3e0e0183b6c2d193a675f898f"
+	}
+}
