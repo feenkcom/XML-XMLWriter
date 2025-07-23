@@ -13,8 +13,8 @@ BaselineOfXMLWriterForGlamorousToolkit >> baseline: spec [
 				spec repository: 'github://pharo-contributions/OrderPreservingDictionary:7b3ab363379e35a3e0e0183b6c2d193a675f898f/src' ].
 
 		spec package: 'XML-Writer-Core' with: [
-			spec requires: #('OrderPreservingDictionary') ].
+			spec requires: #(#OrderPreservingDictionary) ].
 		spec package: 'XML-Writer-Tests' with: [
-			spec requires: #('XML-Writer-Core') ].
+			spec requires: #(#'XML-Writer-Core') ].
 	]
 ]
